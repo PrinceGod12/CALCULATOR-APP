@@ -3,12 +3,12 @@
 
 
 # TABLE OF CONTENTS
-
-
-# Aboubt the App
-# Features
-# Screenshot
-# Technologies Used
-# Installation
-# Usage
-# Contributing
+About the App
+Features
+Screenshots
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Contact
